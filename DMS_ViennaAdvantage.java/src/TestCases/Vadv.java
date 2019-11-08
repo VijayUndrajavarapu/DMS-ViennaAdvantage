@@ -27,7 +27,7 @@ public class Vadv extends Actions {
 
 	@BeforeClass
 	public void setup() throws MalformedURLException {
-	//Lounch the URl and login to the application and click on DMS
+	//Launch the URl and login to the application and click on DMS
 			lounchApp();
 	}
 
